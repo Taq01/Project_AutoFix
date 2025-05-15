@@ -10,7 +10,7 @@ import {
   TouchableOpacity,
 } from "react-native";
  
-import { Picker } from "@react-native-community/picker";
+import { Picker } from "@react-native-picker/picker";
 
 import React, { useEffect, useState, memo, Component } from "react";
 import CarCard from "./CarCard";
